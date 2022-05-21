@@ -17,9 +17,9 @@ The next step was to determine the voter turnout for each county as mentind abov
 I then determined the county wth the highst turn out.
 
 Afterwards, the following items were printed to Terminal:
-    - Total votes
-    - Each Candidates total votes
-    - % of votes
+    -Total votes
+    -Each Candidates total votes
+    -% of votes
     
 The winner of the election, winning vote count, and winning % of votes were also printed to Terminal.
 A *Text file* was then created to show all the results in an easy to read format. 
